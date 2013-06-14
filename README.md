@@ -47,10 +47,9 @@ License
 -------
 Copyright (c) 2012 John Wiseman jjwiseman@gmail.com
 
-This database is made available under the Open Database License whose
-full text can be found at http://opendatacommons.org/licenses/odbl/
-and in the accompanying [LICENSE-ODBL.md](LICENSE-ODBL.md) file. Any
-rights in individual contents of the database are licensed under the
-Database Contents License whose text can be found
-http://opendatacommons.org/licenses/dbcl/ and in the accompanying
-[LICENSE-DBCL.md](LICENSE-DBCL.md) file.
+This atc-radar database is made available under the Open Database
+License: http://opendatacommons.org/licenses/odbl/1.0/ and in the
+accompanying [LICENSE-ODBL.md](LICENSE-ODBL.md) file. Any rights in
+individual contents of the database are licensed under the Database
+Contents License: http://opendatacommons.org/licenses/dbcl/1.0/ and in
+the accompanying [LICENSE-DBCL.md](LICENSE-DBCL.md) file.
