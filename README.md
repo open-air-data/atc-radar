@@ -47,21 +47,10 @@ License
 -------
 Copyright (c) 2012 John Wiseman jjwiseman@gmail.com
 
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-"Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-The software is provided "as is", without warranty of any kind,
-express or implied, including but not limited to the warranties of
-merchantability, fitness for a particular purpose and
-noninfringement. In no event shall the authors or copyright holders be
-liable for any claim, damages or other liability, whether in an action
-of contract, tort or otherwise, arising from, out of or in connection
-with the software or the use or other dealings in the software.
+This database is made available under the Open Database License whose
+full text can be found at http://opendatacommons.org/licenses/odbl/
+and in the accompanying [LICENSE-ODBL.md](LICENSE-ODBL.md) file. Any
+rights in individual contents of the database are licensed under the
+Database Contents License whose text can be found
+http://opendatacommons.org/licenses/dbcl/ and in the accompanying
+[LICENSE-DBCL.md](LICENSE-DBCL.md) file.
