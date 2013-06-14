@@ -45,7 +45,7 @@ Otherwise, open an issue explaining the change.
 
 License
 -------
-Copyright (c) 2012 John Wiseman jjwiseman@gmail.com
+Copyright (c) 2013 John Wiseman jjwiseman@gmail.com
 
 This atc-radar database is made available under the Open Database
 License: http://opendatacommons.org/licenses/odbl/1.0/ and in the
