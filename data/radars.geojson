@@ -9587,7 +9587,43 @@
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
             "type": "Feature"
-        }
+        },
+		    {
+      "geometry": {
+        "coordinates": [
+          47.953159,
+          -97.419516
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "id": "",
+        "mode_s": true,
+		"military": true,
+        "name": "Grand Forks AFB",
+        "source": "http://www.afceaboston.com/documents/events/cnsatm2011/Briefs/01-Monday/07-Wadas-HBAG%20NationalAirspaceSystemOverview.pdf",
+        "type": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          48.414457,
+          -101.335471
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "id": "",
+        "mode_s": true,
+        "military": true,
+		"name": "Minot AFB",
+        "source": "http://www.afceaboston.com/documents/events/cnsatm2011/Briefs/01-Monday/07-Wadas-HBAG%20NationalAirspaceSystemOverview.pdf",
+        "type": ""
+      },
+      "type": "Feature"
+    }
     ],
     "type": "FeatureCollection"
 }
