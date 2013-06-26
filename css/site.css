@@ -8,13 +8,30 @@ body {
 #header {
     background: #333;
     color: #ddd;
+    height: 35px;
 }
 
 #map {
-    width: 100%;
-    height: 1000px;
+    position: absolute;
+    margin-top: 35px;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
 }
 
 #infobox {
-    font-size: 9px;
+    font-size: 9pt;
+}
+
+#title {
+    font-size: 12pt;
+    text-decoration: bold;
+}
+
+.infobox-header {
+    font-size: 12pt;
+    text-decoration: bold;
+    background: #333;
+    color: #ddd;
 }
