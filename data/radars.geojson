@@ -5900,7 +5900,7 @@
                     "Mode-S status is unknown."
                 ],
                 "mode_s": false,
-                "name": "ASMARA<",
+                "name": "ASMARA",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -6155,7 +6155,7 @@
             "geometry": {
                 "coordinates": [
                     1.611449,
-                    50.718102<
+                    50.718102
                 ],
                 "type": "Point"
             },
@@ -8182,7 +8182,7 @@
             "geometry": {
                 "coordinates": [
                     0.836789,
-                    47.64987,
+                    47.64987
                 ],
                 "type": "Point"
             },
@@ -9015,8 +9015,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.894833
-                    46.827119,
+                    -0.894833,
+                    46.827119
                 ],
                 "type": "Point"
             },
@@ -9106,8 +9106,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -1.288687
-                    59.877811,
+                    -1.288687,
+                    59.877811
                 ],
                 "type": "Point"
             },
