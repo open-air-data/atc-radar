@@ -34,4 +34,10 @@ body {
     text-decoration: bold;
     background: #333;
     color: #ddd;
+    padding-right: 3cm;
+    padding-left: 0.1cm;
+    padding-top: 0.1cm;
+    padding-bottom: 0.1cm;
+    margin-right: 1cm;
+    margin-bottom: 0.2cm;
 }
