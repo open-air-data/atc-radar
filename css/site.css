@@ -27,7 +27,7 @@ h1 {
 
 
 .outer-wrapper {
-    background-image: url("/images/atc-radar-scope.jpg");
+    background-image: url("../images/atc-radar-scope.jpg");
     background-position: top left;
     background-size: cover;
     background-attachment: fixed;
