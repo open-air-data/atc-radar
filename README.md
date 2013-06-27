@@ -1,6 +1,8 @@
 ATC radar locations
 ======================
 
+[![Build Status](https://travis-ci.org/open-air-data/atc-radar.png?branch=master)](https://travis-ci.org/open-air-data/atc-radar)
+
 This is a shared, open directory of air traffic control radars around
 the world.
 
