@@ -4,8 +4,7 @@ ATC radar locations
 This is a shared, open directory of air traffic control radars around
 the world.
 
-To see a map of cataloged radars you can view the
-[data/radars.geojson](data/radars.geojson) file.
+You can view a [map of the cataloged radars](http://open-air-data.github.io/atc-radar/).
 
 
 Coordinates
