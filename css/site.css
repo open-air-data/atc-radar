@@ -5,11 +5,93 @@ body {
     margin: 0px;
 }
 
+h1 {
+    color: #333538;
+    text-decoration: none;
+    font-size: 30px;
+    line-height: 1.25em;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-weight: 400;
+    font-style: normal;
+}
+
 #header {
     background: #333;
     color: #ddd;
     height: 35px;
+    font-size: 14pt;
+    font-weight: bold;
+    line-height: 35px;
 }
+
+
+.outer-wrapper {
+    background-image: url("/images/atc-radar-scope.jpg");
+    background-position: top left;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    position: absolute;
+    min-width: 100%;
+    width: 100%;
+    min-height: 100%;
+}
+
+.content {
+    width: 60%;
+    margin: 60px auto;
+    padding: 10px 30px 50px 30px;
+    background-color: #fbfbfb;
+    font-size: 24px;
+    line-height: 1.4em;
+    text-transform: none;
+    letter-spacing: 0px;
+    font-weight: 400;
+    font-style: normal;
+    color: #15171a;
+}
+
+.author {
+    color: #abb0b3;
+    text-align: center;
+    font-size: 13px;
+}
+
+.section {
+    margin-bottom: 40px;
+}
+
+.content a {
+    text-decoration: none;
+}
+.content a:link {
+    color: #dd0000;
+}
+.content a:hover {
+    color: #ffd675;
+}
+.content a:visited {
+    color: #dd0000;
+}
+
+
+#header a {
+    text-decoration: none;
+}
+#header a:link {
+    color: #ddd;
+}
+#header a:visited {
+    color: #ddd;
+}
+#header a:hover {
+    color: #fff;
+}
+#header a:active {
+    color: #ddd;
+}
+
 
 #map {
     position: absolute;
