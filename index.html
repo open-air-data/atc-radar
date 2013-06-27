@@ -11,7 +11,7 @@
   </head>
   <body>
     <div id="header">
-      <span id="title"><a href="about.html">Open Air Data - ATC Radar Sites</a></span>
+      <span id="title"><a href="about.html">OPEN AIR DATA - ATC Radar Sites</a></span>
     </div>
     <div id="map">
     </div>
@@ -46,7 +46,7 @@ $(function() {
 
   function setInfoWindow(feature) {
     google.maps.event.addListener(feature, "click", function(event) {
-      var content = "<div id='infobox'><div class='infobox-header'>Radar site info</div>";
+      var content = "<div id='infobox'><div class='infobox-header'>SITE INFO</div>";
       content += "<table>";
       for (var j in this.geojsonProperties) {
         var value = this.geojsonProperties[j];
