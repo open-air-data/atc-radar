@@ -17,7 +17,11 @@
     "atc",
     "aviation",
     "geojson",
-    "radar"
+    "radar",
+    "planespotting",
+    "planespotters",
+    "ads-b",
+    "mode s"
   ],
   "author": {
     "name": "John Wiseman",
