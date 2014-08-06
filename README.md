@@ -26,6 +26,7 @@ Each station may have the following properties:
 |id       |An official ID, FAA or otherwise.       |
 |name     |Name of the station.                    |
 |type     |The type of radar.                      |
+|idents   |a comma-delimited list of II and SI identification codes for the radar. |
 |range    |Range of the radar.                     |
 |mode_s   |Is it a Mode S SSR?                     |
 |source   |Provenance of this record.              |
