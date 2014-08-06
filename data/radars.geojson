@@ -542,7 +542,7 @@
             },
             "properties": {
                 "id": "LAXS",
-                "idents": "II-01",
+                "idents": "II-02",
                 "mode_s": "true",
                 "name": "Los Angeles (South)",
                 "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
