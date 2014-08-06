@@ -1,0 +1,35 @@
+{
+  "name": "atc-radar",
+  "version": "0.0.1",
+  "description": "Worldwide catalog of air traffic control radars.",
+  "devDependencies": {
+    "tap": "~0.4.0"
+  },
+  "scripts": {
+    "test": "tap --stderr ./test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/open-air-data/atc-radar.git"
+  },
+  "keywords": [
+    "air traffic control",
+    "atc",
+    "aviation",
+    "geojson",
+    "radar",
+    "planespotting",
+    "planespotters",
+    "ads-b",
+    "mode s"
+  ],
+  "author": {
+    "name": "John Wiseman",
+    "email": "jjwiseman@gmail.com",
+    "url": "http://lemondronor.com"
+  },
+  "license": "Open Database License",
+  "engine": {
+    "node": ">=0.4"
+  }
+}
