@@ -8,6 +8,10 @@ the world.
 
 You can view a [map of the cataloged radars](http://open-air-data.github.io/atc-radar/).
 
+Format
+------
+
+The data is in [GeoJSON](http://geojson.org/) format, which is a standard format for geographic data that is easy to parse and process.
 
 Coordinates
 -----------
